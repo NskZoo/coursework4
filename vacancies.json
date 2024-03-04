@@ -1,0 +1,178 @@
+[
+    {
+        "vacancy_title": "Ведущий Програмист 1С",
+        "town": "Тула",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92959015"
+    },
+    {
+        "vacancy_title": "Ведущий Програмист 1С",
+        "town": "Тула",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92959015"
+    },
+    {
+        "vacancy_title": "Программист 1С",
+        "town": "Санкт-Петербург",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/90211903"
+    },
+    {
+        "vacancy_title": "Програмист 1С",
+        "town": "Барнаул",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91759338"
+    },
+    {
+        "vacancy_title": "Программист 1С",
+        "town": "Санкт-Петербург",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/90211903"
+    },
+    {
+        "vacancy_title": "Програмист 1С",
+        "town": "Барнаул",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91759338"
+    },
+    {
+        "vacancy_title": "Ведущий програмист-разработчик Unity, C#",
+        "town": "Москва",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93159478"
+    },
+    {
+        "vacancy_title": "Ведущий програмист-разработчик Unity, C#",
+        "town": "Москва",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93159478"
+    },
+    {
+        "vacancy_title": "Програмист 1С",
+        "town": "Краснодар",
+        "salary_from": 100000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92943307"
+    },
+    {
+        "vacancy_title": "Програмист 1С",
+        "town": "Краснодар",
+        "salary_from": 100000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92943307"
+    },
+    {
+        "vacancy_title": "Наладчик-программист ЧПУ",
+        "town": "Владимир",
+        "salary_from": 80000,
+        "salary_to": 85000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93916514"
+    },
+    {
+        "vacancy_title": "Наладчик-программист ЧПУ",
+        "town": "Владимир",
+        "salary_from": 80000,
+        "salary_to": 85000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93916514"
+    },
+    {
+        "vacancy_title": "Инженер-програмист",
+        "town": "Кемерово",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91008892"
+    },
+    {
+        "vacancy_title": "Инженер-програмист",
+        "town": "Кемерово",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91008892"
+    },
+    {
+        "vacancy_title": "Web програмист (поддержка проектов на 1с-Битрикс)",
+        "town": "Хабаровск",
+        "salary_from": 45000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92859304"
+    },
+    {
+        "vacancy_title": "Web програмист (поддержка проектов на 1с-Битрикс)",
+        "town": "Хабаровск",
+        "salary_from": 45000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92859304"
+    },
+    {
+        "vacancy_title": "Интегратор Кейтаро / keitaro integrates ( програмист )",
+        "town": "Санкт-Петербург",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93538347"
+    },
+    {
+        "vacancy_title": "Интегратор Кейтаро / keitaro integrates ( програмист )",
+        "town": "Санкт-Петербург",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93538347"
+    },
+    {
+        "vacancy_title": "Инженер-технолог-програмист",
+        "town": "Калининград",
+        "salary_from": 35000,
+        "salary_to": 45000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94022602"
+    },
+    {
+        "vacancy_title": "Инженер-технолог-програмист",
+        "town": "Калининград",
+        "salary_from": 35000,
+        "salary_to": 45000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94022602"
+    },
+    {
+        "vacancy_title": "Менеджер офиса/Помощник руководителя",
+        "town": "Омск",
+        "salary_from": 30000,
+        "salary_to": 40000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93119428"
+    },
+    {
+        "vacancy_title": "Менеджер офиса/Помощник руководителя",
+        "town": "Омск",
+        "salary_from": 30000,
+        "salary_to": 40000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93119428"
+    }
+]
