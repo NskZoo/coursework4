@@ -18,5 +18,5 @@ def test__init__(v):
     assert v.town == "Москва"
     assert v.salary_from == 120000
     assert v.salary_to == 250000
-    assert v.emploeyment == "Полная занятость"
+    assert v.employment == "Полная занятость"
     assert v. url == "https://hh.ru/vacancy/93159478"

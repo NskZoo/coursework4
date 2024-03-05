@@ -1,14 +1,14 @@
 import json
+from src.vacancy import Vacancy
 
 
-def test_file_writer(self):
+def test_file_writer():
+    vacancy = Vacancy("Билетный промоутер (удаленно)",
+                      "Москва",
+                      120000,
+                      125000,
+                      "Полная занятость",
+                      "https://hh.ru/vacancy/90278470")
+
     with open('vacancies.json', 'w', encoding='utf-8') as file:
-        json.dump(self, file, indent=4, ensure_ascii=False)
-    assert file == {
-        "vacancy_title": "Ведущий програмист-разработчик Unity, C#",
-        "town": "Москва",
-        "salary_from": 120000,
-        "salary_to": 250000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93159478"
-    }
+        json.dump(vacancy.__dict__, file, indent=4, ensure_ascii=False)

@@ -1,178 +1,1586 @@
 [
     {
-        "vacancy_title": "Ведущий Програмист 1С",
-        "town": "Тула",
-        "salary_from": 200000,
+        "vacancy_title": "Продавец-консультант",
+        "town": "Ташкент",
+        "salary_from": 8000000,
         "salary_to": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/92959015"
+        "url": "https://hh.ru/vacancy/89053956"
     },
     {
-        "vacancy_title": "Ведущий Програмист 1С",
-        "town": "Тула",
-        "salary_from": 200000,
+        "vacancy_title": "Продавец-консультант",
+        "town": "Ташкент",
+        "salary_from": 8000000,
         "salary_to": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/92959015"
+        "url": "https://hh.ru/vacancy/89053956"
     },
     {
-        "vacancy_title": "Программист 1С",
-        "town": "Санкт-Петербург",
-        "salary_from": 150000,
+        "vacancy_title": "Продавец-кассир в магазин SWAROVSKI",
+        "town": "Ташкент",
+        "salary_from": 6000000,
+        "salary_to": 10000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93116552"
+    },
+    {
+        "vacancy_title": "Продавец-кассир в магазин SWAROVSKI",
+        "town": "Ташкент",
+        "salary_from": 6000000,
+        "salary_to": 10000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93116552"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Ташкент",
+        "salary_from": 5000000,
+        "salary_to": 15000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93789906"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Ташкент",
+        "salary_from": 5000000,
+        "salary_to": 15000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93789906"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Ташкент",
+        "salary_from": 4000000,
+        "salary_to": 9000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94093976"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Ташкент",
+        "salary_from": 4000000,
+        "salary_to": 9000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94093976"
+    },
+    {
+        "vacancy_title": "Специалист по недвижимости",
+        "town": "Астана",
+        "salary_from": 400000,
+        "salary_to": 3000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94017353"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 400000,
         "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92758030"
+    },
+    {
+        "vacancy_title": "Специалист по недвижимости",
+        "town": "Астана",
+        "salary_from": 400000,
+        "salary_to": 3000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94017353"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 400000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92758030"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Экибастуз",
+        "salary_from": 350000,
+        "salary_to": 600000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94206855"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Экибастуз",
+        "salary_from": 350000,
+        "salary_to": 600000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94206855"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91797434"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91797434"
+    },
+    {
+        "vacancy_title": "Продавец-кассир со знанием 1С",
+        "town": "Астана",
+        "salary_from": 250000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94195895"
+    },
+    {
+        "vacancy_title": "Продавец отдела фото, канцелярии",
+        "town": "Караганда",
+        "salary_from": 250000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91516221"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Астана",
+        "salary_from": 250000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94087693"
+    },
+    {
+        "vacancy_title": "Продавец-кассир со знанием 1С",
+        "town": "Астана",
+        "salary_from": 250000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94195895"
+    },
+    {
+        "vacancy_title": "Продавец отдела фото, канцелярии",
+        "town": "Караганда",
+        "salary_from": 250000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91516221"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Астана",
+        "salary_from": 250000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94087693"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Талдыкорган",
+        "salary_from": 240000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93798230"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Талдыкорган",
+        "salary_from": 240000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93798230"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Астана",
+        "salary_from": 225000,
+        "salary_to": 700000,
         "employment": "Частичная занятость",
-        "url": "https://hh.ru/vacancy/90211903"
+        "url": "https://hh.ru/vacancy/93012659"
     },
     {
-        "vacancy_title": "Програмист 1С",
-        "town": "Барнаул",
-        "salary_from": 150000,
+        "vacancy_title": "Продавец-консультант",
+        "town": "Астана",
+        "salary_from": 225000,
+        "salary_to": 700000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/93012659"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в торговый зал",
+        "town": "Алматы",
+        "salary_from": 200000,
         "salary_to": 250000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/91759338"
+        "url": "https://hh.ru/vacancy/92883118"
     },
     {
-        "vacancy_title": "Программист 1С",
-        "town": "Санкт-Петербург",
-        "salary_from": 150000,
-        "salary_to": null,
-        "employment": "Частичная занятость",
-        "url": "https://hh.ru/vacancy/90211903"
+        "vacancy_title": "Продавец-консультант",
+        "town": "Астана",
+        "salary_from": 200000,
+        "salary_to": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93322404"
     },
     {
-        "vacancy_title": "Програмист 1С",
-        "town": "Барнаул",
-        "salary_from": 150000,
+        "vacancy_title": "Продавец-консультант в ТЦ Мега парк",
+        "town": "Алматы",
+        "salary_from": 200000,
         "salary_to": 250000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/91759338"
+        "url": "https://hh.ru/vacancy/93122118"
     },
     {
-        "vacancy_title": "Ведущий програмист-разработчик Unity, C#",
-        "town": "Москва",
+        "vacancy_title": "Продавец-кассир",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92199500"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин Nike (Mega Center Alma-Ata)",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93389232"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в свадебный салон",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93693560"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин женской одежды",
+        "town": "Астана",
+        "salary_from": 200000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93725401"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в сексшоп, г. Атырау",
+        "town": "Атырау",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94124034"
+    },
+    {
+        "vacancy_title": "Кассир-продавец",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94132859"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Павлодар",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93915906"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93274091"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТРЦ Керуен Сити",
+        "town": "Актобе",
+        "salary_from": 200000,
+        "salary_to": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94149924"
+    },
+    {
+        "vacancy_title": "Продавец-консультант/продавец кассир",
+        "town": "Актобе",
+        "salary_from": 200000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94207293"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин электронных сигарет Raven Vape",
+        "town": "Павлодар",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93719247"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в торговый зал",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92883118"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Астана",
+        "salary_from": 200000,
+        "salary_to": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93322404"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТЦ Мега парк",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93122118"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92199500"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин Nike (Mega Center Alma-Ata)",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93389232"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в свадебный салон",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93693560"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин женской одежды",
+        "town": "Астана",
+        "salary_from": 200000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93725401"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в сексшоп, г. Атырау",
+        "town": "Атырау",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94124034"
+    },
+    {
+        "vacancy_title": "Кассир-продавец",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94132859"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Павлодар",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93915906"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93274091"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТРЦ Керуен Сити",
+        "town": "Актобе",
+        "salary_from": 200000,
+        "salary_to": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94149924"
+    },
+    {
+        "vacancy_title": "Продавец-консультант/продавец кассир",
+        "town": "Актобе",
+        "salary_from": 200000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94207293"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин электронных сигарет Raven Vape",
+        "town": "Павлодар",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93719247"
+    },
+    {
+        "vacancy_title": "Продавец-консультант одежды",
+        "town": "Алматы",
+        "salary_from": 180000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93783385"
+    },
+    {
+        "vacancy_title": "Продавец-консультант одежды",
+        "town": "Алматы",
+        "salary_from": 180000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93783385"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в MANGO (ул. Сатпаева 17 А)",
+        "town": "Атырау",
+        "salary_from": 170000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93041217"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в MANGO (ул. Сатпаева 17 А)",
+        "town": "Атырау",
+        "salary_from": 170000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93041217"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТЦ ( АДК,Март)",
+        "town": "Алматы",
+        "salary_from": 160000,
+        "salary_to": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93122088"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТЦ ( АДК,Март)",
+        "town": "Алматы",
+        "salary_from": 160000,
+        "salary_to": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93122088"
+    },
+    {
+        "vacancy_title": "Продавец-консультант бижутерии и аксессуаров",
+        "town": "Алматы",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/94144056"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Астана",
+        "salary_from": 150000,
+        "salary_to": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93823116"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (женская одежда)",
+        "town": "Алматы",
+        "salary_from": 150000,
+        "salary_to": 2000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94131885"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93575797"
+    },
+    {
+        "vacancy_title": "Продавец-консультант бижутерии и аксессуаров",
+        "town": "Алматы",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/94144056"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Астана",
+        "salary_from": 150000,
+        "salary_to": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93823116"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (женская одежда)",
+        "town": "Алматы",
+        "salary_from": 150000,
+        "salary_to": 2000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94131885"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93575797"
+    },
+    {
+        "vacancy_title": "Продавец-консультант / Менеджер по работе с клиентами",
+        "town": "Санкт-Петербург",
         "salary_from": 120000,
         "salary_to": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93159478"
+        "url": "https://hh.ru/vacancy/92610110"
     },
     {
-        "vacancy_title": "Ведущий програмист-разработчик Unity, C#",
-        "town": "Москва",
+        "vacancy_title": "Продавец-консультант / Менеджер по работе с клиентами",
+        "town": "Санкт-Петербург",
         "salary_from": 120000,
         "salary_to": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93159478"
+        "url": "https://hh.ru/vacancy/92610110"
     },
     {
-        "vacancy_title": "Програмист 1С",
-        "town": "Краснодар",
+        "vacancy_title": "Продавец-консультант part time (на полдня) в магазин одежды",
+        "town": "Астана",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93835522"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Санкт-Петербург",
         "salary_from": 100000,
         "salary_to": 120000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/92943307"
+        "url": "https://hh.ru/vacancy/93405627"
     },
     {
-        "vacancy_title": "Програмист 1С",
-        "town": "Краснодар",
+        "vacancy_title": "Выездной менеджер в \"Газпромбанк\"",
+        "town": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93560486"
+    },
+    {
+        "vacancy_title": "Продавец-консультант part time (на полдня) в магазин одежды",
+        "town": "Астана",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93835522"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Санкт-Петербург",
         "salary_from": 100000,
         "salary_to": 120000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/92943307"
+        "url": "https://hh.ru/vacancy/93405627"
     },
     {
-        "vacancy_title": "Наладчик-программист ЧПУ",
-        "town": "Владимир",
+        "vacancy_title": "Выездной менеджер в \"Газпромбанк\"",
+        "town": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93560486"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин одежды",
+        "town": "Санкт-Петербург",
         "salary_from": 80000,
+        "salary_to": 110000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94107188"
+    },
+    {
+        "vacancy_title": "Мобильный продавец",
+        "town": "Москва",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93629231"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин одежды",
+        "town": "Санкт-Петербург",
+        "salary_from": 80000,
+        "salary_to": 110000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94107188"
+    },
+    {
+        "vacancy_title": "Мобильный продавец",
+        "town": "Москва",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93629231"
+    },
+    {
+        "vacancy_title": "Продавец консультант / Специалист офиса продаж",
+        "town": "Москва",
+        "salary_from": 75000,
+        "salary_to": 160000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93047819"
+    },
+    {
+        "vacancy_title": "Продавец консультант / Специалист офиса продаж",
+        "town": "Москва",
+        "salary_from": 75000,
+        "salary_to": 160000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93047819"
+    },
+    {
+        "vacancy_title": "Продавец медицинской оптики (г. Москва)",
+        "town": "Москва",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93089113"
+    },
+    {
+        "vacancy_title": "Продавец-флорист",
+        "town": "Алматы",
+        "salary_from": 70000,
+        "salary_to": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92112096"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/93577848"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Москва",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/88197585"
+    },
+    {
+        "vacancy_title": "Продавец - консультант",
+        "town": "Москва",
+        "salary_from": 70000,
+        "salary_to": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93018034"
+    },
+    {
+        "vacancy_title": "Продавец медицинской оптики (г. Москва)",
+        "town": "Москва",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93089113"
+    },
+    {
+        "vacancy_title": "Продавец-флорист",
+        "town": "Алматы",
+        "salary_from": 70000,
+        "salary_to": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92112096"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Алматы",
+        "salary_from": 70000,
+        "salary_to": 80000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/93577848"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Москва",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/88197585"
+    },
+    {
+        "vacancy_title": "Продавец - консультант",
+        "town": "Москва",
+        "salary_from": 70000,
+        "salary_to": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93018034"
+    },
+    {
+        "vacancy_title": "Театральный менеджер (удаленно)",
+        "town": "Санкт-Петербург",
+        "salary_from": 65000,
+        "salary_to": 125000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/90403928"
+    },
+    {
+        "vacancy_title": "Билетный промоутер (удаленно)",
+        "town": "Москва",
+        "salary_from": 65000,
+        "salary_to": 125000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/90278470"
+    },
+    {
+        "vacancy_title": "Театральный менеджер (удаленно)",
+        "town": "Санкт-Петербург",
+        "salary_from": 65000,
+        "salary_to": 125000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/90403928"
+    },
+    {
+        "vacancy_title": "Билетный промоутер (удаленно)",
+        "town": "Москва",
+        "salary_from": 65000,
+        "salary_to": 125000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/90278470"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин SuperStep (Невский проспект 55)",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92333671"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91990529"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в салон связи Теле2",
+        "town": "Москва",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/81764241"
+    },
+    {
+        "vacancy_title": "Продавец-консультант Thomas Munz",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/88078908"
+    },
+    {
+        "vacancy_title": "Продавец в магазин/шоурум",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94120124"
+    },
+    {
+        "vacancy_title": "Продавец-дизайнер",
+        "town": "Москва",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94010665"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин SuperStep (Невский проспект 55)",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92333671"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91990529"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в салон связи Теле2",
+        "town": "Москва",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/81764241"
+    },
+    {
+        "vacancy_title": "Продавец-консультант Thomas Munz",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/88078908"
+    },
+    {
+        "vacancy_title": "Продавец в магазин/шоурум",
+        "town": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94120124"
+    },
+    {
+        "vacancy_title": "Продавец-дизайнер",
+        "town": "Москва",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94010665"
+    },
+    {
+        "vacancy_title": "Продавец-консультант VapeClub",
+        "town": "Санкт-Петербург",
+        "salary_from": 55000,
+        "salary_to": 75000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93054601"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в салон связи ТЕЛЕ2 (г. Москва)",
+        "town": "Москва",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93070243"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин косметики (Принц Плаза)",
+        "town": "Москва",
+        "salary_from": 55000,
         "salary_to": 85000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93916514"
+        "url": "https://hh.ru/vacancy/93524943"
     },
     {
-        "vacancy_title": "Наладчик-программист ЧПУ",
-        "town": "Владимир",
-        "salary_from": 80000,
+        "vacancy_title": "Продавец-консультант VapeClub",
+        "town": "Санкт-Петербург",
+        "salary_from": 55000,
+        "salary_to": 75000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93054601"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в салон связи ТЕЛЕ2 (г. Москва)",
+        "town": "Москва",
+        "salary_from": 55000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93070243"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин косметики (Принц Плаза)",
+        "town": "Москва",
+        "salary_from": 55000,
         "salary_to": 85000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93916514"
+        "url": "https://hh.ru/vacancy/93524943"
     },
     {
-        "vacancy_title": "Инженер-програмист",
-        "town": "Кемерово",
+        "vacancy_title": "Продавец-консультант в ТРЦ \"Гринвич\"",
+        "town": "Екатеринбург",
         "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/85038136"
+    },
+    {
+        "vacancy_title": "Продавец-кассир (ТЦ МЕГА Белая Дача)",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/89775094"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Нижний Новгород",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93548084"
+    },
+    {
+        "vacancy_title": "Продавец-кассир (ТЦ АфиМолл Сити)",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91330511"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Санкт-Петербург",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92809501"
+    },
+    {
+        "vacancy_title": "Продавец-консультант TELE2",
+        "town": "Казань",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/52299649"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин волос/бьюти салон",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93678876"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТРЦ \"Гринвич\"",
+        "town": "Екатеринбург",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/85038136"
+    },
+    {
+        "vacancy_title": "Продавец-кассир (ТЦ МЕГА Белая Дача)",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/89775094"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Нижний Новгород",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93548084"
+    },
+    {
+        "vacancy_title": "Продавец-кассир (ТЦ АфиМолл Сити)",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91330511"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Санкт-Петербург",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92809501"
+    },
+    {
+        "vacancy_title": "Продавец-консультант TELE2",
+        "town": "Казань",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/52299649"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин волос/бьюти салон",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93678876"
+    },
+    {
+        "vacancy_title": "Продавец флорист в магазин цветов",
+        "town": "Калининград",
+        "salary_from": 45000,
+        "salary_to": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92888279"
+    },
+    {
+        "vacancy_title": "Кассир-продавец",
+        "town": "Бишкек",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94144037"
+    },
+    {
+        "vacancy_title": "Продавец - консультант/Менеджер по продажам в салон мебели",
+        "town": "Инза",
+        "salary_from": 45000,
+        "salary_to": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94030290"
+    },
+    {
+        "vacancy_title": "Оператор ПК (из дома)",
+        "town": "Москва",
+        "salary_from": 45000,
+        "salary_to": 52000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94196263"
+    },
+    {
+        "vacancy_title": "Продавец флорист в магазин цветов",
+        "town": "Калининград",
+        "salary_from": 45000,
+        "salary_to": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92888279"
+    },
+    {
+        "vacancy_title": "Кассир-продавец",
+        "town": "Бишкек",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94144037"
+    },
+    {
+        "vacancy_title": "Продавец - консультант/Менеджер по продажам в салон мебели",
+        "town": "Инза",
+        "salary_from": 45000,
+        "salary_to": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94030290"
+    },
+    {
+        "vacancy_title": "Оператор ПК (из дома)",
+        "town": "Москва",
+        "salary_from": 45000,
+        "salary_to": 52000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94196263"
+    },
+    {
+        "vacancy_title": "Продавец консультант на 8 Марта",
+        "town": "Алматы",
+        "salary_from": 40000,
+        "salary_to": 120000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/92823140"
+    },
+    {
+        "vacancy_title": "Продавец-консультант/Продавец одежды/Продавец в бутик",
+        "town": "Екатеринбург",
+        "salary_from": 40000,
+        "salary_to": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93442358"
+    },
+    {
+        "vacancy_title": "Администратор пункта выдачи Ozon (м. Бутырская)",
+        "town": "Москва",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94278580"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Челябинск",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/86303720"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Бишкек",
+        "salary_from": 40000,
         "salary_to": 50000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/91008892"
+        "url": "https://hh.ru/vacancy/93696226"
     },
     {
-        "vacancy_title": "Инженер-програмист",
-        "town": "Кемерово",
-        "salary_from": 50000,
+        "vacancy_title": "Продавец консультант на 8 Марта",
+        "town": "Алматы",
+        "salary_from": 40000,
+        "salary_to": 120000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/92823140"
+    },
+    {
+        "vacancy_title": "Продавец-консультант/Продавец одежды/Продавец в бутик",
+        "town": "Екатеринбург",
+        "salary_from": 40000,
+        "salary_to": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93442358"
+    },
+    {
+        "vacancy_title": "Администратор пункта выдачи Ozon (м. Бутырская)",
+        "town": "Москва",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94278580"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Челябинск",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/86303720"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Бишкек",
+        "salary_from": 40000,
         "salary_to": 50000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/91008892"
+        "url": "https://hh.ru/vacancy/93696226"
     },
     {
-        "vacancy_title": "Web програмист (поддержка проектов на 1с-Битрикс)",
-        "town": "Хабаровск",
-        "salary_from": 45000,
-        "salary_to": 60000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/92859304"
-    },
-    {
-        "vacancy_title": "Web програмист (поддержка проектов на 1с-Битрикс)",
-        "town": "Хабаровск",
-        "salary_from": 45000,
-        "salary_to": 60000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/92859304"
-    },
-    {
-        "vacancy_title": "Интегратор Кейтаро / keitaro integrates ( програмист )",
+        "vacancy_title": "Продавец правильного питания во всех районах города",
         "town": "Санкт-Петербург",
-        "salary_from": 40000,
-        "salary_to": 60000,
+        "salary_from": 38137,
+        "salary_to": 50850,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93538347"
+        "url": "https://hh.ru/vacancy/87408022"
     },
     {
-        "vacancy_title": "Интегратор Кейтаро / keitaro integrates ( програмист )",
+        "vacancy_title": "Продавец правильного питания во всех районах города",
         "town": "Санкт-Петербург",
-        "salary_from": 40000,
-        "salary_to": 60000,
+        "salary_from": 38137,
+        "salary_to": 50850,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93538347"
+        "url": "https://hh.ru/vacancy/87408022"
     },
     {
-        "vacancy_title": "Инженер-технолог-програмист",
-        "town": "Калининград",
+        "vacancy_title": "Продавец-консультант",
+        "town": "Казань",
+        "salary_from": 36000,
+        "salary_to": 46000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/87891403"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Казань",
+        "salary_from": 36000,
+        "salary_to": 46000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/87891403"
+    },
+    {
+        "vacancy_title": "Продавец - консультант в свадебный салон / Администратор магазина",
+        "town": "Краснодар",
         "salary_from": 35000,
-        "salary_to": 45000,
+        "salary_to": 65000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/94022602"
+        "url": "https://hh.ru/vacancy/93736588"
     },
     {
-        "vacancy_title": "Инженер-технолог-програмист",
-        "town": "Калининград",
+        "vacancy_title": "Продавец - консультант в свадебный салон / Администратор магазина",
+        "town": "Краснодар",
         "salary_from": 35000,
-        "salary_to": 45000,
+        "salary_to": 65000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/94022602"
+        "url": "https://hh.ru/vacancy/93736588"
     },
     {
-        "vacancy_title": "Менеджер офиса/Помощник руководителя",
-        "town": "Омск",
-        "salary_from": 30000,
-        "salary_to": 40000,
+        "vacancy_title": "Продавец-консультант",
+        "town": "Бишкек",
+        "salary_from": 27000,
+        "salary_to": 30000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93119428"
+        "url": "https://hh.ru/vacancy/93850899"
     },
     {
-        "vacancy_title": "Менеджер офиса/Помощник руководителя",
-        "town": "Омск",
-        "salary_from": 30000,
-        "salary_to": 40000,
+        "vacancy_title": "Продавец-консультант",
+        "town": "Бишкек",
+        "salary_from": 27000,
+        "salary_to": 30000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/93119428"
+        "url": "https://hh.ru/vacancy/93850899"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Минск",
+        "salary_from": 1650,
+        "salary_to": 2000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93859270"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Минск",
+        "salary_from": 1650,
+        "salary_to": 2000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93859270"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин YOS DESIGN",
+        "town": "Минск",
+        "salary_from": 1300,
+        "salary_to": 1600,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93136457"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин YOS DESIGN",
+        "town": "Минск",
+        "salary_from": 1300,
+        "salary_to": 1600,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93136457"
+    },
+    {
+        "vacancy_title": "Продавец в Вейп Шоп",
+        "town": "Минск",
+        "salary_from": 1200,
+        "salary_to": 1700,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92964814"
+    },
+    {
+        "vacancy_title": "Продавец в Вейп Шоп",
+        "town": "Минск",
+        "salary_from": 1200,
+        "salary_to": 1700,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92964814"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Гродно",
+        "salary_from": 1100,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94202270"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Гродно",
+        "salary_from": 1100,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94202270"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Минск",
+        "salary_from": 1065,
+        "salary_to": 1285,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92741378"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Минск",
+        "salary_from": 1065,
+        "salary_to": 1285,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92741378"
+    },
+    {
+        "vacancy_title": "Продавец",
+        "town": "Брест",
+        "salary_from": 1000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94154252"
+    },
+    {
+        "vacancy_title": "Продавец",
+        "town": "Брест",
+        "salary_from": 1000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94154252"
+    },
+    {
+        "vacancy_title": "Продавец-флорист",
+        "town": "Витебск",
+        "salary_from": 900,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93080401"
+    },
+    {
+        "vacancy_title": "Продавец-флорист",
+        "town": "Витебск",
+        "salary_from": 900,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93080401"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Жлобин",
+        "salary_from": 800,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94148766"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин верхней одежды",
+        "town": "Ташкент",
+        "salary_from": 800,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92769458"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Жлобин",
+        "salary_from": 800,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94148766"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин верхней одежды",
+        "town": "Ташкент",
+        "salary_from": 800,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92769458"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Бобруйск",
+        "salary_from": 35,
+        "salary_to": 70,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93847281"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Бобруйск",
+        "salary_from": 35,
+        "salary_to": 70,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93847281"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТК Стокманн",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93185280"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93534709"
+    },
+    {
+        "vacancy_title": "Продавец-флорист подработка",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93166659"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (Zara - Tashkent City Mall)",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94135736"
+    },
+    {
+        "vacancy_title": "Продавец-кассир (Stradivarius, Pull&Bear, Bershka - Tashkent City Mall)",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94135834"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин обуви",
+        "town": "Барановичи",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94137412"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93244553"
+    },
+    {
+        "vacancy_title": "Продавец-флорист",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93814288"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Россия",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93462704"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (ТЦ \"Авиапарк\")",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93286341"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (Bishkek Park, ул. Киевская, д.148)",
+        "town": "Бишкек",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93337841"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93000863"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в ТК Стокманн",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93185280"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93534709"
+    },
+    {
+        "vacancy_title": "Продавец-флорист подработка",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93166659"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (Zara - Tashkent City Mall)",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94135736"
+    },
+    {
+        "vacancy_title": "Продавец-кассир (Stradivarius, Pull&Bear, Bershka - Tashkent City Mall)",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94135834"
+    },
+    {
+        "vacancy_title": "Продавец-консультант в магазин обуви",
+        "town": "Барановичи",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94137412"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93244553"
+    },
+    {
+        "vacancy_title": "Продавец-флорист",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93814288"
+    },
+    {
+        "vacancy_title": "Продавец-консультант",
+        "town": "Россия",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93462704"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (ТЦ \"Авиапарк\")",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93286341"
+    },
+    {
+        "vacancy_title": "Продавец-консультант (Bishkek Park, ул. Киевская, д.148)",
+        "town": "Бишкек",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93337841"
+    },
+    {
+        "vacancy_title": "Продавец-кассир",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93000863"
     }
 ]
